@@ -21,8 +21,6 @@ npm run build
 
 * Netlify link: https://sparkly-dusk-69a7da.netlify.app/
 
-* Technical design document: https://docs.google.com/document/d/1RqimqPtAHtAVySe2X1hkb83gOxQ2ElHd1WJcej9l8_I/edit?usp=sharing
-
 *****************************************************************************
 
 ### Project Overview
